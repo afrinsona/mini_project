@@ -1,0 +1,66 @@
+ A Project Abstract on
+Online Blood Bank Management System
+Abstract:
+Blood donation is required during an organ transplant, accidents, cancer treatment etc. For blood donation, one needs to check for a donation camp or needs to visit blood bank.
+The Manual Blood donation system has many disadvantages which includes, it is too time consuming, often leads to error prone results, consumes lot of manpower, lacks donor information, 
+retrieval of data takes a lot of time, percentage of accuracy is less. In the time of emergency, it becomes difficult to approach the right donor. Rare blood groups are not available
+all the time at all blood banks and recipients find difficulties to track the right blood donor. To overcome this problem, our project has proposed a system You must be in good health 
+at the time you donate.
+               You cannot donate if you have a cold, flu, sore throat, cold sore, stomach bug or any other infection.
+               If you have recently had a tattoo or body piercing you cannot donate for 6 months from the date of the procedure.
+There are many blood donation management systems, but these systems only maintain the information of blood banks and donors. But our project has proposed a system which not only maintains
+the information of blood banks, but also maintains information of blood camps which makes blood transfusion process easier. This online blood donation management system maintains the list
+of blood donors and also helps the recipients to track and search the right donor easily.
+It has two modules namely Admin and User. Admins can add hospitals having blood banks and can also add various blood donation camps. He/she can also view the list of donors  of a 
+particular area with proper Blood cross match. He/she can also check for blood requests and in case of emergency he/she can send notifications to blood donors as per the requirements.
+Users can register and make a request. Users can also register as a donor. Donors can check for Blood camps and hospitals for blood donation and will be getting notifications in case of
+emergency. They can either accept or ignore it. This project aims at maintaining all information regarding blood donors, different blood groups available in blood banks as wells as blood 
+camps and help them manage in a better way.
+Keywords: HTML, CSS, JAVASCRIPT, PHP, SQL
+
+S.NO	
+Name of the apparatus	
+Require Specifications
+
+1.	
+Processor	
+i3 / i5
+
+2.	
+RAM	
+4gb(1nini1num)
+
+3	
+Hard Disk	
+160GB
+
+4.	
+OS	
+Windows 7/10
+
+5.	
+Web server	
+Local host
+
+6.	
+Languages	
+HTML, CSS, PHP, Javascript
+
+7.	
+Tools	Sublime text Notepad++
+8.	Editor	Chrome, Firefox
+9.	Database	MySQL
+
+REFERENCES:
+
+We collected all Information of our college students l.e blood groups of  all students
+Of second year and final year students of our college and our faculty
+supported us a lot
+Our college will be conducted of this project .
+WHO/IFRC. Towards 100% voluntary blood donation A global framework for action. World Health Organization
+
+Blood donor selection. Guidelines on assessing donor suitability for blood donation. SVR. World Health Organization
+Screening donated blood for  transfusion-transmissible Infections. Geneva: World Health Organization
+WHO/CDC. Donor selection and counselling Report of Inter-regional workshop on blood donor selection and donor counselling for  priority countries in the African and Eastern Mediterranean regions. World Health Organization
+By their support we completed our project
+
